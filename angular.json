@@ -151,5 +151,8 @@
       }
     }
   },
-  "defaultProject": "book-crud"
+  "defaultProject": "book-crud",
+  "cli": {
+    "analytics": "e76ff527-80cf-4705-9063-cadb2612da41"
+  }
 }
